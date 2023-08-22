@@ -5,8 +5,7 @@ const Description = ({ onQuant, onAdd, onRemove, onSetOrderedQuant }) => {
   return (
     <section className="description">
       <p className="pre">
-        First Imdaad Box <u style={{ color: "#f96d6d" }}>alternative</u> to
-        First aid{" "}
+        Imdaad Box <u style={{ color: "#f96d6d" }}>alternative</u> to First aid{" "}
       </p>
       <h1>
         {/* <PiFirstAidFill /> */}
