@@ -1,7 +1,7 @@
 import React from "react";
 import { PiFirstAidFill, PiArrowDownBold } from "react-icons/pi";
 
-const Description = ({ onQuant, onAdd, onRemove, onSetOrderedQuant }) => {
+const Description = ({ onQuant, onSetOrderedQuant }) => {
   return (
     <section className="description">
       <p className="pre">
